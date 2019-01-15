@@ -1,8 +1,6 @@
 # Ensemble-Techniques
 Taking the confusion out of the confusion matrix, ROC curve and other metrics in classification algorithms
 
-
-# Ensemble Techniques
 Load the data (Parkinson.csv) file and perform the following task,
 a) Refer to this link, https://archive.ics.uci.edu/ml/datasets/parkinsons and read the description of the dataset and attach suitable headers.
 b) Status is the outcome variable, with ‘0’ – healthy and ‘1’ – Parkinson Disease. Perform EDA and apply suitable algorithm (pick among Logistic Regression, Naive’s Bayes, KNN), which is giving best score with 70/30 validation split with precision and recall score, ROC curve and AUC value. Finally, choose the best model out of 3.
